@@ -1,4 +1,4 @@
-const api = "https://http://irma-api.herokuapp.com/api/v1/shelters"
+const api = "http://irma-api.herokuapp.com/api/v1/shelters"
 
 export const getAll = () =>
   fetch(api)
