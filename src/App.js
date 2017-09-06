@@ -18,7 +18,7 @@ class App extends Component {
     markers: [],
     filteredMarkers: [],
     viewport: {
-      center: [29.760427, -95.369803],
+      center: [26.0787667, -80.3572884],
       zoom: 9
     },
     currentLocation: [],
