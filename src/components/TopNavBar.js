@@ -13,7 +13,7 @@ const TopNavBar = (props) => {
         // </div>
   return (
     <div className='top-navbar'>
-        <h2>Irma Relief</h2>
+        <h2>Irma Response</h2>
         <p className="top-support">Call for help: <a href="tel:311">3-1-1</a></p>
 
     </div>
