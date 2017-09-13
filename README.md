@@ -1,11 +1,13 @@
-This app displays list of shelters for Hurricane Harvey evacuees from: https://docs.google.com/spreadsheets/d/14GHRHQ_7cqVrj0B7HCTVE5EbfpNFMbSI9Gi8azQyn-k
+This app displays list of shelters for Hurricane Irma. This project is a fork of a similar project mapping shelters for Hurricane Harvey, a project which mapped Houston shelters [from a Google Spreadsheet](https://docs.google.com/spreadsheets/d/14GHRHQ_7cqVrj0B7HCTVE5EbfpNFMbSI9Gi8azQyn-k). 
 
-Created using React and Leaflet map
+Created using React and Leaflet map.
 
-Thanks to everyone working to keep this sheet constantly updated
+Thanks to everyone working to keep this sheet constantly updated.
 
 
-## How to run development
+## How to run this on a development server
+
+This project uses [node.js](https://github.com/codeforamerica/howto/blob/master/Node.js.md).
 
 * Clone this repository
 * Make sure your node environment is 8.2+
